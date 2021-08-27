@@ -1,0 +1,24 @@
+.section4{
+    width: 100%;
+    height: 100px;
+    margin-top: 50px;
+    display: flex;
+}
+.ras{
+    width: 50%;
+    height: 500px;
+    background-image: url(3108731.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ani{
+    width: 50%;
+    margin-left: 20px;
+}
+.ani :is(h2){
+    font-size: 3em;
+}
+.an{
+    margin-top: 50px;
+    padding: 0px 20px ;
+}

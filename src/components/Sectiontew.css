@@ -1,0 +1,55 @@
+.sectiontew{
+    width: 100%;
+    height: 700px;
+}
+
+.text1{
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    color: rgb(122, 201, 161);
+}
+.katta{
+    display: flex;
+}
+.malu{
+    width: 50%;
+margin-left: 200px;
+    margin-top: 50px;
+
+}
+.malu :is(p){
+    margin-top: 20px;
+}
+.bir{
+    display: flex;
+    margin-top: 20px;
+}
+
+.bir :is(h4){
+    margin-left: 20px;
+    text-align: left;
+    font-weight: 100;
+    margin-top: 10px;
+}
+.bir :is(h1){
+    font-size: 3em;
+}
+.heh{
+    color: springgreen;
+}
+.ee{
+    color: red;
+}
+.xec{
+    margin-left: -100px;
+   margin-top: 10px;
+   width: 50%;
+}
+.block{
+    display: flex;
+    
+}
+.xecm{
+    margin-left: 10px;
+}

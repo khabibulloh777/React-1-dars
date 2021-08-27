@@ -1,0 +1,35 @@
+.section3{
+    width: 100%;
+    height: 600px;
+    margin-top: 180px;
+    background-image: url(x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+.ss{
+    margin-top: -600px;
+  height: 1000px;
+}
+.i :is(h1){
+    font-size: 10em;
+    color: rgb(79, 235, 48);
+ margin-left: 300px;
+}
+.i :is(h2){
+    font-size: 8em;
+    color: rgb(236, 198, 27);
+    margin-left: 500px;
+}   
+.img2{
+    width: 50%;
+    background-image: url(x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.katta2{
+width: 100%;
+height: 500px;
+
+}

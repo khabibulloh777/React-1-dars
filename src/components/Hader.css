@@ -1,0 +1,49 @@
+.header{
+width: 100%;
+height: 60px;
+background-color: floralwhite;
+display: flex;
+max-height: 50px;
+top: 0;
+left: 0;
+}
+.hello{
+    margin-top: 10px;
+    width: 20px;
+    height: 20px;
+}
+.header__logo{
+    display: flex;
+    list-style-type: none;
+   margin-left: 200px;
+}
+.header__logo :is(li){
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+.collection{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.collection_it{
+    list-style-type: none;
+    margin: 0px 40px ;
+    color: #fff;
+    cursor: pointer;
+}
+.lupa{
+    width: 50px;
+    height: 20px;
+    border-radius: 50%;
+    list-style-type: none;
+    margin-left: 200px;
+}
+
+.header{
+    background-image: url(bg_element.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+}
